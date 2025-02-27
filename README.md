@@ -22,8 +22,6 @@
 ---
 ## Projetos em Destaque
 
-- [🏦 Sistema Bancário em Java](https://github.com/BernardoAbner/Banco-Java.git)
-
 - [🚗 Modelo EER de uma Oficina](https://github.com/BernardoAbner/Oficina_Refinado.git)
 
 ---
