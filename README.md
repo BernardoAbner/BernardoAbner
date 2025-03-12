@@ -23,6 +23,7 @@
 ## Projetos em Destaque
 
 - [Modelo EER de uma Oficina](https://github.com/BernardoAbner/Oficina_Refinado.git)
+- [Projeto de um Banco em Java](https://github.com/BernardoAbner/Banco-javaPOO.git)
 
 ---
 ## Entre em contato comigo 
