@@ -1,16 +1,16 @@
-# Ola, eu sou o Bernardo 💎
+#  Bernardo Abner 
 
-🙋 **Seja Bem-Vindo ao meu perfil do GitHub**
+ **Seja Bem-Vindo ao meu perfil do GitHub**
 
-🎓 **Sou estudante em Ciência da Computação** na FAESA (3º período) 
+ **Sou estudante em Ciência da Computação** na FAESA (3º período) 
 
-📖 **Aprendendo e praticando: Java, Python e MySQL**
+ **Estudando e praticando: Java, Python e MySQL**
 
-💢 **Compartilhando meus estudos e Projetos neste perfil!**
+ **Compartilhando meus estudos e Projetos neste perfil!**
 
 ---
 
-## Tecnologias & Ferramentas 💻
+## Tecnologias & Ferramentas 
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -22,7 +22,7 @@
 ---
 ## Projetos em Destaque
 
-- [🚗 Modelo EER de uma Oficina](https://github.com/BernardoAbner/Oficina_Refinado.git)
+- [Modelo EER de uma Oficina](https://github.com/BernardoAbner/Oficina_Refinado.git)
 
 ---
 ## Entre em contato comigo 📱
